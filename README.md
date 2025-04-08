@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-🔭 I’m currently working on sistemas de controle de dados, landingpages e telemetria com IA.
+🔭 Atualmente estou trabalho em sistemas de controle de dados, landingpages e telemetria com IA.
 
 
 ## 🌐 Redes Sociais:
