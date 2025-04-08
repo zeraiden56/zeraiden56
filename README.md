@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-🔭 Atualmente estou trabalho em sistemas de controle de dados, landingpages e telemetria com IA.
+🔭 Atualmente estou trabalhando em Sistemas de Controle de Dados, AppScrips do Google, Landingpages e Telemetria de pareceres jurídicos com IA.
 
 
 ## 🌐 Redes Sociais:
