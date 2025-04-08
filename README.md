@@ -1,4 +1,4 @@
-# 👨‍💻 Arthur Costa Dias
+# 👋 Olá, sou Arthur!
 
 ## 💫 Sobre mim
 Atualmente trabalho com **Sistemas de Controle de Dados**, **AppScripts do Google**, **Landing Pages** e **Telemetria de pareceres jurídicos com IA**.
