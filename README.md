@@ -1,75 +1,55 @@
-# 👋 Olá, sou Arthur!
+# Jurista & Software Engineer (LegalTech/GovTech)
 
-## 💫 Sobre mim
-Atualmente trabalho com **Sistemas de Controle de Dados**, **AppScripts do Google**, **Landing Pages** e **Telemetria de pareceres jurídicos com IA**.
+Atuo na interseção entre **Direito, Tecnologia e Automação**, criando sistemas web e mobile para **gestão pública/empresarial** (contratos administrativos, RH e ponto eletrônico) e aplicando **IA** para padronização e eficiência de processos.
 
-📍 Cuiabá - MT  
-🎯 Foco em automação, dados e soluções criativas
-
----
-
-## 🌐 Redes Sociais
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dias.arthurcosta)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@arthurodestemido5262)
+📍 Cuiabá–MT • 🌎 Remote-friendly  
+🔗 LinkedIn: [Arthur Costa Dias](https://www.linkedin.com/in/arthur-costa-dias-99aa5823b/) • 💻 GitHub: https://github.com/zeraiden56
 
 ---
 
-## 💻 Tech Stack
-
-### Linguagens & Frameworks
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-
-### Front-end
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+## 🛠️ Tecnologias (foco atual)
 
 ### Back-end
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-### DevOps & Infra
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+### Front-end
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-### Banco de Dados & Cloud
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+### Mobile
+![React Native](https://img.shields.io/badge/React_Native-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
-### IA e Dados
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-
-### Design & Outros
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
-![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+### Banco & Infra
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## 📊 GitHub Status
+### ✅ WebPonto — Gestão de Ponto Eletrônico (Web + Mobile)
+- **Stack:** Laravel (PHP) • React Native (Android/iOS) • Web
+- **O que fiz:** regras de negócio, cadastros, permissões, registros, auditoria e relatórios
 
-![](https://github-readme-stats.vercel.app/api?username=zeraiden56&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=zeraiden56&theme=synthwave&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zeraiden56&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### ✅ Gestão de Contratos Administrativos (SETASC–MT)
+- **Objetivo:** controle, organização e acompanhamento de contratos e prazos
+- **O que fiz:** levantamento de requisitos jurídico-administrativos → regras de sistema e fluxos
+
+### ✅ Automação e IA aplicada ao Jurídico (DPE–MT)
+- **Exemplos:** linguagem simples, modelos de documentos, calculadoras e apoio a indicadores
+- **Foco:** automação, padronização e ganho de eficiência
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=zeraiden56&icon=0&color=1)](https://visitcount.itsvg.in)
+## 🧠 O que eu faço bem
+- Traduzir **requisitos legais e regras de negócio** em sistemas funcionais
+- Construir **CRUDs robustos**, permissões, auditoria, relatórios e integrações
+- Entregar **apps React Native** integrados a backend
+- Aplicar **IA (prompts/automação)** em fluxos e documentação
 
-<!-- Otimizado com carinho para destacar suas skills e clareza -->
+---
