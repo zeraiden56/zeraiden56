@@ -1,9 +1,9 @@
 # Jurista & Software Engineer (LegalTech/GovTech)
 
-Atuo na interseção entre **Direito, Tecnologia e Automação**, criando sistemas web e mobile para **gestão pública/empresarial** (contratos administrativos, RH e ponto eletrônico) e aplicando **IA** para padronização e eficiência de processos.
+Construo sistemas web e mobile para gestão pública/empresarial (contratos, RH e ponto eletrônico), unindo Direito + Engenharia de Software e aplicando automação/IA para eficiência e padronização.
 
 📍 Cuiabá–MT • 🌎 Remote-friendly  
-🔗 LinkedIn: [Arthur Costa Dias](https://www.linkedin.com/in/arthur-costa-dias-99aa5823b/) • 💻 GitHub: https://github.com/zeraiden56
+🔗 LinkedIn: [Arthur Costa Dias](https://www.linkedin.com/in/arthur-costa-dias-99aa5823b/) • 💻 E-mail: arthurcostadias1@gmail.com
 
 ---
 
